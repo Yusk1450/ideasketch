@@ -44,11 +44,9 @@
 （ギリギリで思いついたアイデアが最も良かったりする）
 
 ## 使用するペン
-① 三菱鉛筆 水性ペン プロッキーツイン 極細  
-　https://www.amazon.co.jp/dp/B00O2SUR0O/  
-② 三菱鉛筆 水性サインペン プロッキーツイン 細字+太字  
-　https://www.amazon.co.jp/dp/B00O2SV3G6/  
-③ too COPIC CIAO コピックチャオ  
-　https://www.amazon.co.jp/dp/B097QMBJ5L/  
-④ T3 コピック スケッチ【トナーグレイNo.3】  
-　https://www.amazon.co.jp/dp/B001QWWSP6  
+||ペンの種類|購入リンク|
+|--------------|--------------|--------------|
+|①|三菱鉛筆 水性ペン プロッキーツイン 極細|https://www.amazon.co.jp/dp/B00O2SUR0O/|
+|②|三菱鉛筆 水性サインペン プロッキーツイン 細字+太字|https://www.amazon.co.jp/dp/B00O2SV3G6/|
+|③|too COPIC CIAO コピックチャオ|https://www.amazon.co.jp/dp/B097QMBJ5L/|
+|④|T3 コピック スケッチ【トナーグレイNo.3】|https://www.amazon.co.jp/dp/B001QWWSP6|
